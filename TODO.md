@@ -3,235 +3,253 @@
 
 *Last Updated: May 24, 2025*
 *Progress: 30% Complete (3 of 10 chapters drafted)*
+*Current Focus: Chapter 4 - The Need to Be Right*
 
 ---
 
-## 📚 WRITING TASKS
+## 🎯 IMMEDIATE NEXT ACTIONS
 
-### ✅ COMPLETED CHAPTERS
-- [x] **Chapter 1**: One Father, Three Religions (6,000+ words) ✅
-- [x] **Chapter 2**: Same God, Different Books (6,000+ words) ✅  
-- [x] **Chapter 3**: Us vs. Them - The Tribal Brain (6,000+ words) ✅
+### 🔥 **RIGHT NOW - TOP PRIORITY**
+- [ ] **WRITE Chapter 4: The Need to Be Right**
+  - **Opening Scene**: Online religious debate where no one changes minds
+  - **Key Concepts**: Cognitive Dissonance (Festinger), Confirmation Bias, Terror Management Theory
+  - **Target**: 6,000-7,000 words
+  - **Research Status**: Framework ready in `/research/psychology-concepts.md`
+  - **Chapter Status**: READY TO WRITE ✍️
 
-### 📝 CHAPTERS TO WRITE (Priority Order)
-
-#### PART 2: The Psychology of Religious Division
-- [ ] **Chapter 4**: The Need to Be Right
-  - Research: Cognitive Dissonance Theory (Festinger)
-  - Research: Confirmation bias and motivated reasoning
-  - Research: Terror Management Theory
-  - Opening scene: Online religious debate where no one changes minds
-  - Target: 6,000-7,000 words
-  - **Status**: Next up - HIGH PRIORITY
-
-- [ ] **Chapter 5**: Power Corrupts, Even in Religion  
-  - Research: How spiritual movements become institutions
-  - Research: Historical examples of religious power corruption
-  - Opening scene: Religious leader using scripture for political power
-  - Target: 6,000-7,000 words
-  - **Status**: After Chapter 4
-
-#### PART 3: Beyond Religion - The Universal Pattern
-- [ ] **Chapter 6**: Political Tribes
-  - Research: Political psychology (Haidt's Moral Foundations Theory)
-  - Research: Nationalism as secular religion  
-  - Opening scene: Political rally that feels like religious revival
-  - Target: 6,000-7,000 words
-  - **Status**: Part 3 start
-
-- [ ] **Chapter 7**: The Orthodoxy Trap
-  - Research: Academic tribes and intellectual orthodoxy
-  - Research: Cancel culture as modern excommunication
-  - Opening scene: Academic conference with fierce theoretical debates
-  - Target: 6,000-7,000 words
-  - **Status**: Part 3 continuation
-
-#### PART 4: Breaking the Pattern  
-- [ ] **Chapter 8**: When It Works
-  - Research: Successful interfaith cooperation examples
-  - Research: Contact Hypothesis and prejudice reduction
-  - Opening scene: Interfaith disaster relief team working together
-  - Target: 6,000-7,000 words
-  - **Status**: Solutions section start
-
-- [ ] **Chapter 9**: Practical Steps Forward
-  - Research: Evidence-based approaches to reducing religious prejudice
-  - Research: Educational interventions that work
-  - Opening scene: Workshop where people learn to see each other's humanity
-  - Target: 6,000-7,000 words
-  - **Status**: Practical applications
-
-- [ ] **Chapter 10**: The View from Above
-  - Research: Spiritual evolution and cosmic perspective
-  - Research: Hope and reconciliation psychology
-  - Opening scene: Astronauts from different faiths looking at Earth from space
-  - Target: 6,000-7,000 words
-  - **Status**: Final chapter - inspirational conclusion
+### 📚 **NEXT UP (After Chapter 4)**
+- [ ] **WRITE Chapter 5: Power Corrupts, Even in Religion**
+  - **Opening Scene**: Religious leader using scripture for political power
+  - **Research Needed**: Historical examples across all three faiths
+  - **Target**: 6,000-7,000 words
 
 ---
 
-## 🔬 RESEARCH TASKS
+## 📊 PROGRESS TRACKER
 
-### High Priority Research (For Chapters 4-5)
-- [ ] **Cognitive Dissonance Theory**: Deep dive into Festinger's work
-- [ ] **Confirmation Bias Studies**: Latest research on motivated reasoning
-- [ ] **Terror Management Theory**: How death anxiety drives religious belief
-- [ ] **Religious Certainty Psychology**: Why doubt feels threatening
-- [ ] **Power Corruption in Religion**: Historical case studies across all three faiths
-- [ ] **Institutional vs. Spiritual Religion**: Sociology of religious organizations
+### ✅ **WHAT WE'VE ACCOMPLISHED**
+```
+PART 1: The Abraham Problem
+├── ✅ Chapter 1: One Father, Three Religions (6,200 words)
+└── ✅ Chapter 2: Same God, Different Books (6,000 words)
 
-### Medium Priority Research (For Chapters 6-7)
-- [ ] **Political Psychology**: How politics mirrors religion (Haidt, etc.)
-- [ ] **Nationalism Studies**: Sacred values in secular contexts
-- [ ] **Cancel Culture Research**: Modern forms of excommunication
-- [ ] **Academic Tribalism**: How intellectual communities create orthodoxy
-- [ ] **Corporate Culture Wars**: Belief systems in secular organizations
+PART 2: The Psychology of Religious Division  
+├── ✅ Chapter 3: Us vs. Them - The Tribal Brain (6,000 words)
+├── 🎯 Chapter 4: The Need to Be Right (NEXT UP)
+└── ⏳ Chapter 5: Power Corrupts, Even in Religion
 
-### Lower Priority Research (For Chapters 8-10)
-- [ ] **Interfaith Success Stories**: Document specific examples of cooperation
-- [ ] **Contact Hypothesis Research**: What conditions reduce prejudice
-- [ ] **Conflict Resolution**: Successful religious peace processes
-- [ ] **Educational Interventions**: What teaching methods work
-- [ ] **Perspective-Taking Studies**: How to build empathy across groups
-- [ ] **Spiritual Evolution**: Research on expanding consciousness
+CURRENT WORD COUNT: ~18,200 words
+TARGET FINAL COUNT: 60,000-80,000 words
+COMPLETION: 30% ✅
+```
 
----
-
-## 📖 SUPPORTING MATERIALS
-
-### ✅ COMPLETED
-- [x] Comprehensive book outline
-- [x] Genealogy diagrams (Abraham's family tree)
-- [x] Psychology concepts framework
-- [x] Research sources list
-
-### 📝 TO CREATE
-- [ ] **Appendix A**: Detailed genealogical charts (expand current diagrams)
-- [ ] **Appendix B**: Comparative beliefs table (Judaism/Christianity/Islam)
-- [ ] **Appendix C**: Resources for further learning
-- [ ] **Appendix D**: Discussion questions for book clubs
-- [ ] **Bibliography**: Complete academic sources list
-- [ ] **Index**: Key terms and concepts (after final draft)
+### 🎉 **MOMENTUM MILESTONES**
+- [x] **🚀 Book Started** - Outline and structure complete
+- [x] **📖 Part 1 Complete** - Abraham story foundation solid  
+- [x] **🧠 Psychology Foundation** - Chapter 3 establishes scientific credibility
+- [ ] **🔬 Psychology Deep Dive** - Chapters 4-5 complete (TARGET: 50%)
+- [ ] **🌍 Universal Patterns** - Chapters 6-7 complete (TARGET: 70%) 
+- [ ] **💡 Solutions Section** - Chapters 8-10 complete (TARGET: 100%)
+- [ ] **📚 Publication Ready** - All editing complete
 
 ---
 
-## ✏️ EDITING & REVISION TASKS
+## 📝 CHAPTER WRITING QUEUE
 
-### After All Chapters Are Drafted
-- [ ] **Pass 1**: Content consistency check across all chapters
-- [ ] **Pass 2**: Voice and tone consistency 
-- [ ] **Pass 3**: Fact-checking and source verification
-- [ ] **Pass 4**: Structural flow and transitions between chapters
-- [ ] **Pass 5**: Line editing for clarity and engagement
-- [ ] **Pass 6**: Copy editing for grammar and style
-- [ ] **Pass 7**: Final proofreading
+### **PART 2: The Psychology of Religious Division**
+#### 🎯 **Chapter 4: The Need to Be Right** [NEXT]
+```
+📖 Focus: Why we need certainty so badly
+🎬 Opening: Online religious debate, no minds changed
+🧠 Psychology: Cognitive Dissonance, Confirmation Bias, Terror Management
+📊 Length: 6,000-7,000 words
+🔬 Research: Ready in psychology-concepts.md
+✍️ Status: READY TO WRITE
+```
 
-### Specific Revision Targets
-- [ ] Ensure psychological concepts are accessible to general readers
-- [ ] Verify respectful treatment of all religious traditions
-- [ ] Check that examples span different cultures and contexts
-- [ ] Confirm practical applications are actionable
-- [ ] Strengthen chapter transitions and overall narrative flow
+#### **Chapter 5: Power Corrupts, Even in Religion** [AFTER CH4]
+```
+📖 Focus: How spiritual movements become power structures
+🎬 Opening: Religious leader using scripture for political gain
+🧠 Psychology: Power corruption, institutional vs spiritual religion
+📊 Length: 6,000-7,000 words
+🔬 Research: Need historical case studies
+✍️ Status: Outlined, research needed
+```
 
----
+### **PART 3: Beyond Religion - The Universal Pattern**
+#### **Chapter 6: Political Tribes** [FUTURE]
+```
+📖 Focus: Politics as secular religion
+🎬 Opening: Political rally feeling like religious revival
+🧠 Psychology: Moral Foundations Theory (Haidt), nationalism
+📊 Length: 6,000-7,000 words
+🔬 Research: Political psychology sources
+✍️ Status: Outlined
+```
 
-## 📊 PUBLICATION PREPARATION
+#### **Chapter 7: The Orthodoxy Trap** [FUTURE]
+```
+📖 Focus: How any belief system creates insiders/outsiders
+🎬 Opening: Academic conference with fierce debates
+🧠 Psychology: Cancel culture, intellectual orthodoxy
+📊 Length: 6,000-7,000 words
+🔬 Research: Academic tribalism studies
+✍️ Status: Outlined
+```
 
-### Manuscript Preparation
-- [ ] **Title Page**: Finalize title and subtitle
-- [ ] **Table of Contents**: Complete with page numbers
-- [ ] **Acknowledgments**: Thank contributors and sources
-- [ ] **About the Author**: Biographical information
-- [ ] **Book Description**: Back cover copy
-- [ ] **Keywords**: For marketing and discoverability
+### **PART 4: Breaking the Pattern**
+#### **Chapter 8: When It Works** [FUTURE]
+```
+📖 Focus: Successful interfaith cooperation
+🎬 Opening: Interfaith disaster relief team
+🧠 Psychology: Contact Hypothesis, superordinate goals
+📊 Length: 6,000-7,000 words
+🔬 Research: Success story case studies
+✍️ Status: Outlined
+```
 
-### Market Research
-- [ ] **Competitive Analysis**: Similar books in the market
-- [ ] **Target Audience**: Define primary and secondary readers
-- [ ] **Marketing Hooks**: Key selling points and unique angles
-- [ ] **Platform Building**: Author website and social media presence
+#### **Chapter 9: Practical Steps Forward** [FUTURE]
+```
+📖 Focus: Evidence-based solutions
+🎬 Opening: Workshop building cross-religious empathy
+🧠 Psychology: Perspective-taking, bias reduction
+📊 Length: 6,000-7,000 words
+🔬 Research: Educational interventions that work
+✍️ Status: Outlined
+```
 
-### Publishing Options
-- [ ] **Traditional Publishing**: Research agents and publishers
-- [ ] **Self-Publishing**: Platforms and requirements
-- [ ] **Hybrid Options**: University presses, specialty publishers
-- [ ] **Digital First**: E-book and audiobook considerations
-
----
-
-## 🎯 MILESTONES & DEADLINES
-
-### Phase 1: Core Content (Current Focus)
-- **Target**: Complete Chapters 4-5 by [Date TBD]
-- **Milestone**: Part 2 (Psychology) complete
-- **Progress Check**: 50% of book drafted
-
-### Phase 2: Universal Applications  
-- **Target**: Complete Chapters 6-7 by [Date TBD]
-- **Milestone**: Part 3 (Beyond Religion) complete
-- **Progress Check**: 70% of book drafted
-
-### Phase 3: Solutions & Hope
-- **Target**: Complete Chapters 8-10 by [Date TBD]  
-- **Milestone**: Full first draft complete
-- **Progress Check**: 100% of content drafted
-
-### Phase 4: Polish & Publish
-- **Target**: Complete all editing passes by [Date TBD]
-- **Milestone**: Publication-ready manuscript
-- **Progress Check**: Ready for submission/publication
-
----
-
-## 📋 WEEKLY PROGRESS TRACKING
-
-### Week of [Date]:
-- [ ] Chapter(s) worked on:
-- [ ] Word count progress:
-- [ ] Research completed:
-- [ ] Challenges encountered:
-- [ ] Next week's goals:
-
-### Success Metrics
-- **Quality**: Each chapter tells compelling stories while teaching psychology
-- **Consistency**: Voice and tone remain engaging and accessible
-- **Respect**: All religious traditions treated fairly and accurately  
-- **Practicality**: Readers gain tools they can actually use
-- **Academic Credibility**: Solid research foundation throughout
-- **Market Appeal**: Broad audience beyond just religious readers
+#### **Chapter 10: The View from Above** [FUTURE]
+```
+📖 Focus: Hope, transcendence, Abraham's true legacy
+🎬 Opening: Astronauts from different faiths viewing Earth
+🧠 Psychology: Spiritual evolution, cosmic perspective
+📊 Length: 6,000-7,000 words
+🔬 Research: Transcendence and unity studies
+✍️ Status: Outlined
+```
 
 ---
 
-## 🚨 BLOCKERS & RISKS
+## 🔬 RESEARCH QUEUE
 
-### Potential Challenges
-- [ ] **Research Overwhelm**: Too much academic material to synthesize
-- [ ] **Sensitivity Issues**: Ensuring respectful treatment of all faiths
-- [ ] **Length Management**: Keeping chapters focused and readable
-- [ ] **Voice Consistency**: Maintaining tone across different topics
-- [ ] **Academic vs. Popular**: Balancing credibility with accessibility
+### **🔥 URGENT - For Chapter 4**
+- [x] Cognitive Dissonance Theory basics (in psychology-concepts.md)
+- [ ] **Leon Festinger's key experiments** - When Prophecy Fails study
+- [ ] **Confirmation bias research** - Latest studies on motivated reasoning
+- [ ] **Terror Management Theory** - How death anxiety drives religious belief
+- [ ] **Online religious debates** - Examples of people not changing minds
 
-### Mitigation Strategies
-- [ ] Set research limits for each chapter (quality over quantity)
-- [ ] Beta readers from different religious backgrounds
-- [ ] Regular word count monitoring per chapter
-- [ ] Voice/tone guidelines document
-- [ ] Clear target audience definition
+### **📋 NEXT BATCH - For Chapter 5**
+- [ ] **Power corruption in religion** - Historical examples across faiths
+- [ ] **Institutional vs spiritual religion** - Sociology studies
+- [ ] **Religious leaders and politics** - Case studies of abuse
+- [ ] **How movements become institutions** - Organizational psychology
 
----
-
-## 🎉 CELEBRATION CHECKPOINTS
-
-- [x] **30% Complete**: First 3 chapters drafted! 🎯
-- [ ] **50% Complete**: Psychology section (Chapters 1-5) finished
-- [ ] **70% Complete**: Universal patterns (Chapters 1-7) finished  
-- [ ] **100% Complete**: Full first draft finished 🎉
-- [ ] **Publication Ready**: Final manuscript complete 🚀
+### **📚 FUTURE RESEARCH**
+- [ ] Political psychology (Haidt, Moral Foundations Theory)
+- [ ] Academic tribalism and cancel culture studies
+- [ ] Interfaith cooperation success stories
+- [ ] Educational interventions for reducing prejudice
+- [ ] Spiritual transcendence and unity psychology
 
 ---
 
-**Current Status**: 3/10 chapters complete (30%) | ~18,000 words written
-**Next Priority**: Chapter 4 - The Need to Be Right
-**Overall Goal**: Complete, publishable manuscript that helps people understand the psychology behind religious conflict
+## ⚡ MOMENTUM BOOSTERS
 
-*This TODO list will be updated after each chapter completion and major milestone.*
+### **When You Sit Down to Write:**
+1. **Check current chapter target** (Chapter 4 right now)
+2. **Review the opening scene** (online religious debate)
+3. **Scan key concepts** (cognitive dissonance, confirmation bias)
+4. **Set word count goal** (aim for 1,500-2,000 words per session)
+5. **Update progress** in this TODO when done
+
+### **After Each Chapter:**
+- [ ] Update word count in progress tracker
+- [ ] Mark chapter as complete ✅
+- [ ] Move to next chapter in queue
+- [ ] Celebrate milestone reached! 🎉
+- [ ] Commit to GitHub with progress message
+
+### **If You Get Stuck:**
+1. **Go back to outline** (`/outlines/book-outline.md`)
+2. **Review previous chapters** for voice consistency
+3. **Check research materials** (`/research/` folder)
+4. **Remember the mission**: Help people understand religious conflict psychology
+5. **Start with the opening scene** - stories unlock everything else
+
+---
+
+## 📈 SUCCESS TRACKING
+
+### **Current Session Goals:**
+- [ ] Words written today: _____ / 2,000 target
+- [ ] Chapter section completed: _____
+- [ ] Research items knocked out: _____
+- [ ] Momentum maintained: _____ (rate 1-10)
+
+### **This Week's Targets:**
+- [ ] Complete Chapter 4 (6,000-7,000 words)
+- [ ] Research for Chapter 5 started
+- [ ] Hit 50% completion milestone
+- [ ] Maintain writing momentum
+
+### **This Month's Big Goals:**
+- [ ] Complete Chapters 4-5 (Psychology section done)
+- [ ] Begin Part 3 (Chapters 6-7)
+- [ ] Reach 70% completion
+- [ ] Prepare for final sprint
+
+---
+
+## 🚨 MOMENTUM KILLERS TO AVOID
+
+### **Don't Do This:**
+- ❌ **Over-research** - Set limits, start writing
+- ❌ **Perfectionism** - First drafts are meant to be messy
+- ❌ **Analysis paralysis** - When in doubt, tell a story
+- ❌ **Scope creep** - Stick to the outline
+- ❌ **Comparison** - Your voice is unique and valuable
+
+### **Do This Instead:**
+- ✅ **Set timer** - Write for focused 90-minute blocks
+- ✅ **Follow the outline** - Trust the structure you built
+- ✅ **Tell stories first** - Psychology follows naturally
+- ✅ **Track small wins** - Every paragraph counts
+- ✅ **Celebrate progress** - You're doing something amazing
+
+---
+
+## 🎯 QUICK REFERENCE
+
+### **Current Chapter 4 Details:**
+```
+TITLE: The Need to Be Right
+OPENING: Online religious debate where no minds change
+THEME: Why certainty feels essential to faith
+PSYCHOLOGY: Cognitive dissonance, confirmation bias, terror management
+TARGET: 6,000-7,000 words
+RESEARCH: Check /research/psychology-concepts.md
+NEXT ACTION: Start writing the opening scene
+```
+
+### **Voice Reminders:**
+- Keep it conversational but insightful
+- Use humor to make heavy topics accessible  
+- Respect all traditions while examining human patterns
+- Balance academic credibility with popular appeal
+- Stories first, psychology second, but both integrated
+
+### **When Chapter 4 is Done:**
+- Update this TODO with ✅
+- Bump progress to ~40%
+- Research Chapter 5 power corruption themes
+- Celebrate! You're nearly halfway done!
+
+---
+
+**🚀 CURRENT MISSION: Write Chapter 4 opening scene about online religious debate**
+**📊 PROGRESS: 3/10 chapters complete | 30% done | ~18,200 words**
+**🎯 NEXT MILESTONE: 50% completion after Chapter 5**
+
+*Remember: Every word you write brings this important book closer to helping people understand religious conflict. Your insights matter. Keep going!*
