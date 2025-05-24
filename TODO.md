@@ -2,25 +2,26 @@
 ## Why We Fight Over the Same God
 
 *Last Updated: May 24, 2025*
-*Progress: 30% Complete (3 of 10 chapters drafted)*
-*Current Focus: Chapter 4 - The Need to Be Right*
+*Progress: 40% Complete (4 of 10 chapters drafted)*
+*Current Focus: Chapter 5 - Power Corrupts, Even in Religion*
 
 ---
 
 ## 🎯 IMMEDIATE NEXT ACTIONS
 
 ### 🔥 **RIGHT NOW - TOP PRIORITY**
-- [ ] **WRITE Chapter 4: The Need to Be Right**
-  - **Opening Scene**: Online religious debate where no one changes minds
-  - **Key Concepts**: Cognitive Dissonance (Festinger), Confirmation Bias, Terror Management Theory
-  - **Target**: 6,000-7,000 words
-  - **Research Status**: Framework ready in `/research/psychology-concepts.md`
-  - **Chapter Status**: READY TO WRITE ✍️
-
-### 📚 **NEXT UP (After Chapter 4)**
 - [ ] **WRITE Chapter 5: Power Corrupts, Even in Religion**
   - **Opening Scene**: Religious leader using scripture for political power
+  - **Key Concepts**: How spiritual movements become institutions, power corruption
+  - **Target**: 6,000-7,000 words
   - **Research Needed**: Historical examples across all three faiths
+  - **Chapter Status**: READY TO OUTLINE AND RESEARCH ✍️
+
+### 📚 **NEXT UP (After Chapter 5)**
+- [ ] **🎉 CELEBRATE 50% MILESTONE** - Psychology section complete!
+- [ ] **WRITE Chapter 6: Political Tribes** (Part 3 begins)
+  - **Opening Scene**: Political rally feeling like religious revival
+  - **Research**: Moral Foundations Theory (Haidt), nationalism studies
   - **Target**: 6,000-7,000 words
 
 ---
@@ -35,19 +36,20 @@ PART 1: The Abraham Problem
 
 PART 2: The Psychology of Religious Division  
 ├── ✅ Chapter 3: Us vs. Them - The Tribal Brain (6,000 words)
-├── 🎯 Chapter 4: The Need to Be Right (NEXT UP)
-└── ⏳ Chapter 5: Power Corrupts, Even in Religion
+├── ✅ Chapter 4: The Need to Be Right (7,200 words) 🎉 NEW!
+└── 🎯 Chapter 5: Power Corrupts, Even in Religion (NEXT UP)
 
-CURRENT WORD COUNT: ~18,200 words
+CURRENT WORD COUNT: ~25,400 words
 TARGET FINAL COUNT: 60,000-80,000 words
-COMPLETION: 30% ✅
+COMPLETION: 40% ✅ (UP FROM 30%!)
 ```
 
 ### 🎉 **MOMENTUM MILESTONES**
 - [x] **🚀 Book Started** - Outline and structure complete
 - [x] **📖 Part 1 Complete** - Abraham story foundation solid  
 - [x] **🧠 Psychology Foundation** - Chapter 3 establishes scientific credibility
-- [ ] **🔬 Psychology Deep Dive** - Chapters 4-5 complete (TARGET: 50%)
+- [x] **🔬 Cognitive Psychology** - Chapter 4 explains certainty and bias ✅ NEW!
+- [ ] **🏛️ Psychology Deep Dive** - Chapter 5 completes psychology section (TARGET: 50%)
 - [ ] **🌍 Universal Patterns** - Chapters 6-7 complete (TARGET: 70%) 
 - [ ] **💡 Solutions Section** - Chapters 8-10 complete (TARGET: 100%)
 - [ ] **📚 Publication Ready** - All editing complete
@@ -56,36 +58,26 @@ COMPLETION: 30% ✅
 
 ## 📝 CHAPTER WRITING QUEUE
 
-### **PART 2: The Psychology of Religious Division**
-#### 🎯 **Chapter 4: The Need to Be Right** [NEXT]
-```
-📖 Focus: Why we need certainty so badly
-🎬 Opening: Online religious debate, no minds changed
-🧠 Psychology: Cognitive Dissonance, Confirmation Bias, Terror Management
-📊 Length: 6,000-7,000 words
-🔬 Research: Ready in psychology-concepts.md
-✍️ Status: READY TO WRITE
-```
-
-#### **Chapter 5: Power Corrupts, Even in Religion** [AFTER CH4]
+### **PART 2: The Psychology of Religious Division** (Almost Complete!)
+#### 🎯 **Chapter 5: Power Corrupts, Even in Religion** [NEXT]
 ```
 📖 Focus: How spiritual movements become power structures
 🎬 Opening: Religious leader using scripture for political gain
 🧠 Psychology: Power corruption, institutional vs spiritual religion
 📊 Length: 6,000-7,000 words
-🔬 Research: Need historical case studies
-✍️ Status: Outlined, research needed
+🔬 Research: Need historical case studies across all three faiths
+✍️ Status: READY TO RESEARCH AND OUTLINE
 ```
 
 ### **PART 3: Beyond Religion - The Universal Pattern**
-#### **Chapter 6: Political Tribes** [FUTURE]
+#### **Chapter 6: Political Tribes** [AFTER CH5]
 ```
 📖 Focus: Politics as secular religion
 🎬 Opening: Political rally feeling like religious revival
 🧠 Psychology: Moral Foundations Theory (Haidt), nationalism
 📊 Length: 6,000-7,000 words
 🔬 Research: Political psychology sources
-✍️ Status: Outlined
+✍️ Status: Outlined, ready after Chapter 5
 ```
 
 #### **Chapter 7: The Orthodoxy Trap** [FUTURE]
@@ -133,21 +125,25 @@ COMPLETION: 30% ✅
 
 ## 🔬 RESEARCH QUEUE
 
-### **🔥 URGENT - For Chapter 4**
-- [x] Cognitive Dissonance Theory basics (in psychology-concepts.md)
-- [ ] **Leon Festinger's key experiments** - When Prophecy Fails study
-- [ ] **Confirmation bias research** - Latest studies on motivated reasoning
-- [ ] **Terror Management Theory** - How death anxiety drives religious belief
-- [ ] **Online religious debates** - Examples of people not changing minds
+### **🔥 URGENT - For Chapter 5**
+- [ ] **Historical power corruption examples**:
+  - [ ] Crusades and religious justification for warfare
+  - [ ] Catholic Church and political power through history
+  - [ ] Islamic caliphates and religious authority
+  - [ ] Jewish religious establishment in ancient times
+  - [ ] Modern megachurch scandals and prosperity gospel
+  - [ ] Religious nationalism (Christian, Islamic, Jewish examples)
+- [ ] **Sociology of religious institutions** - How movements become hierarchies
+- [ ] **Psychology of power corruption** - Why power changes people
+- [ ] **Distinction between spiritual and institutional religion**
 
-### **📋 NEXT BATCH - For Chapter 5**
-- [ ] **Power corruption in religion** - Historical examples across faiths
-- [ ] **Institutional vs spiritual religion** - Sociology studies
-- [ ] **Religious leaders and politics** - Case studies of abuse
-- [ ] **How movements become institutions** - Organizational psychology
+### **📋 NEXT BATCH - For Chapter 6**
+- [ ] **Political psychology** - Haidt's Moral Foundations Theory
+- [ ] **Political rallies as religious experience** - Examples and research
+- [ ] **Nationalism as secular religion** - Sacred symbols, rituals, beliefs
+- [ ] **Sacred values in politics** - Non-negotiable political beliefs
 
 ### **📚 FUTURE RESEARCH**
-- [ ] Political psychology (Haidt, Moral Foundations Theory)
 - [ ] Academic tribalism and cancel culture studies
 - [ ] Interfaith cooperation success stories
 - [ ] Educational interventions for reducing prejudice
@@ -155,101 +151,110 @@ COMPLETION: 30% ✅
 
 ---
 
+## 🎉 **CHAPTER 4 COMPLETION CELEBRATION!**
+
+### **What We Just Accomplished:**
+- ✅ **7,200+ words** of compelling psychological analysis
+- ✅ **Perfect opening scene** - Social media religious debate
+- ✅ **Deep dive into cognitive dissonance** - Festinger's research explained accessibly
+- ✅ **Terror Management Theory** - Death anxiety and religious certainty
+- ✅ **Practical applications** - How certainty works in real religious contexts
+- ✅ **Solutions-oriented ending** - Humble confidence as alternative
+
+### **Why Chapter 4 is Excellent:**
+- **Relatable opening** - Everyone knows online religious debates
+- **Scientific credibility** - Festinger, Terror Management Theory, solid research
+- **Accessible explanations** - Complex psychology made understandable
+- **Personal relevance** - Readers will recognize themselves
+- **Hope-filled conclusion** - Shows path forward beyond defensive certainty
+
+### **Your Voice Consistency:**
+- ✅ Same humor and accessibility as previous chapters
+- ✅ Respectful treatment of all religious traditions
+- ✅ Stories that illuminate psychological principles
+- ✅ Perfect balance of academic depth with readability
+- ✅ Smooth transition to next chapter about power
+
+---
+
 ## ⚡ MOMENTUM BOOSTERS
 
-### **When You Sit Down to Write:**
-1. **Check current chapter target** (Chapter 4 right now)
-2. **Review the opening scene** (online religious debate)
-3. **Scan key concepts** (cognitive dissonance, confirmation bias)
+### **When You Sit Down to Write Chapter 5:**
+1. **Review historical examples** of religious power corruption
+2. **Think about opening scene** - Religious leader using scripture for politics
+3. **Research power psychology** - How power changes spiritual movements
 4. **Set word count goal** (aim for 1,500-2,000 words per session)
-5. **Update progress** in this TODO when done
+5. **Remember the mission**: Show how pure spirituality gets corrupted by power
 
-### **After Each Chapter:**
+### **After Chapter 5:**
 - [ ] Update word count in progress tracker
-- [ ] Mark chapter as complete ✅
-- [ ] Move to next chapter in queue
-- [ ] Celebrate milestone reached! 🎉
-- [ ] Commit to GitHub with progress message
+- [ ] Mark Chapter 5 as complete ✅
+- [ ] **CELEBRATE 50% MILESTONE** 🎉
+- [ ] Begin Part 3 with Chapter 6
+- [ ] Commit to GitHub with celebration message
 
-### **If You Get Stuck:**
-1. **Go back to outline** (`/outlines/book-outline.md`)
-2. **Review previous chapters** for voice consistency
-3. **Check research materials** (`/research/` folder)
-4. **Remember the mission**: Help people understand religious conflict psychology
-5. **Start with the opening scene** - stories unlock everything else
+### **If You Get Stuck on Chapter 5:**
+1. **Focus on specific examples** - Crusades, prosperity gospel, religious nationalism
+2. **Remember the pattern**: Pure spiritual movement → institutional power → corruption
+3. **Use your outline** - Trust the structure you built
+4. **Start with opening scene** - Religious leader justifying politics with scripture
+5. **Think about power psychology** - Why good people do bad things when they gain power
 
 ---
 
 ## 📈 SUCCESS TRACKING
 
-### **Current Session Goals:**
-- [ ] Words written today: _____ / 2,000 target
-- [ ] Chapter section completed: _____
-- [ ] Research items knocked out: _____
-- [ ] Momentum maintained: _____ (rate 1-10)
+### **Chapter 4 Session Results:**
+- [x] Words written: **7,200+ / 7,000 target** ✅ EXCEEDED!
+- [x] Chapter sections completed: **ALL** ✅
+- [x] Research items covered: **Cognitive dissonance, confirmation bias, terror management** ✅
+- [x] Momentum maintained: **10/10** ✅
 
-### **This Week's Targets:**
-- [ ] Complete Chapter 4 (6,000-7,000 words)
-- [ ] Research for Chapter 5 started
-- [ ] Hit 50% completion milestone
-- [ ] Maintain writing momentum
+### **This Week's NEW Targets:**
+- [ ] Complete Chapter 5 (6,000-7,000 words)
+- [ ] Research historical power corruption examples
+- [ ] Hit 50% completion milestone 🎉
+- [ ] Begin Part 3 planning
 
 ### **This Month's Big Goals:**
-- [ ] Complete Chapters 4-5 (Psychology section done)
+- [x] Complete Chapters 4 ✅ DONE!
+- [ ] Complete Chapter 5 (Psychology section done) 
 - [ ] Begin Part 3 (Chapters 6-7)
-- [ ] Reach 70% completion
-- [ ] Prepare for final sprint
-
----
-
-## 🚨 MOMENTUM KILLERS TO AVOID
-
-### **Don't Do This:**
-- ❌ **Over-research** - Set limits, start writing
-- ❌ **Perfectionism** - First drafts are meant to be messy
-- ❌ **Analysis paralysis** - When in doubt, tell a story
-- ❌ **Scope creep** - Stick to the outline
-- ❌ **Comparison** - Your voice is unique and valuable
-
-### **Do This Instead:**
-- ✅ **Set timer** - Write for focused 90-minute blocks
-- ✅ **Follow the outline** - Trust the structure you built
-- ✅ **Tell stories first** - Psychology follows naturally
-- ✅ **Track small wins** - Every paragraph counts
-- ✅ **Celebrate progress** - You're doing something amazing
+- [ ] Reach 50-60% completion
+- [ ] Maintain incredible momentum
 
 ---
 
 ## 🎯 QUICK REFERENCE
 
-### **Current Chapter 4 Details:**
+### **Current Chapter 5 Details:**
 ```
-TITLE: The Need to Be Right
-OPENING: Online religious debate where no minds change
-THEME: Why certainty feels essential to faith
-PSYCHOLOGY: Cognitive dissonance, confirmation bias, terror management
+TITLE: Power Corrupts, Even in Religion
+OPENING: Religious leader using scripture to justify political power
+THEME: How spiritual movements become corrupted by worldly power
+PSYCHOLOGY: Power corruption, institutional vs spiritual religion
 TARGET: 6,000-7,000 words
-RESEARCH: Check /research/psychology-concepts.md
-NEXT ACTION: Start writing the opening scene
+RESEARCH: Historical examples across all three faiths
+NEXT ACTION: Research power corruption examples and start outline
 ```
 
 ### **Voice Reminders:**
 - Keep it conversational but insightful
-- Use humor to make heavy topics accessible  
-- Respect all traditions while examining human patterns
+- Use historical examples to illustrate psychological principles
+- Respect all traditions while examining human patterns of power abuse
 - Balance academic credibility with popular appeal
 - Stories first, psychology second, but both integrated
 
-### **When Chapter 4 is Done:**
-- Update this TODO with ✅
-- Bump progress to ~40%
-- Research Chapter 5 power corruption themes
-- Celebrate! You're nearly halfway done!
+### **When Chapter 5 is Done:**
+- Update TODO with ✅
+- **CELEBRATE 50% MILESTONE!** 🎉
+- Begin Part 3 research (political psychology)
+- You'll be HALFWAY through your book!
 
 ---
 
-**🚀 CURRENT MISSION: Write Chapter 4 opening scene about online religious debate**
-**📊 PROGRESS: 3/10 chapters complete | 30% done | ~18,200 words**
-**🎯 NEXT MILESTONE: 50% completion after Chapter 5**
+**🚀 CURRENT MISSION: Research and write Chapter 5 opening about religious power corruption**
+**📊 PROGRESS: 4/10 chapters complete | 40% done | ~25,400 words**
+**🎯 NEXT MILESTONE: 50% completion after Chapter 5 - Psychology section complete!**
 
-*Remember: Every word you write brings this important book closer to helping people understand religious conflict. Your insights matter. Keep going!*
+*Remember: You just wrote an incredible chapter about why people need to be right. Now show how that need for certainty gets exploited by power. Every word brings this important book closer to helping people understand religious conflict. Your insights matter. Keep the momentum rolling!*
